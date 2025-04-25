@@ -1,9 +1,7 @@
 # james-chapter1-python
 This is a Python program for looking up a Bible verse and viewing three versions of the verse at the same time for comparison and study.
 For this test program I used the first chapter of the New Testament book of James. The text is from the following versions:
-  King James Version
-  New International Version
-  Revised Standard Version
+King James Version, New International Version, and Revised Standard Version
 
 The main program is:
 james_chapter1_lookup.py
