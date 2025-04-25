@@ -7,8 +7,8 @@ The main program is:
 james_chapter1_lookup.py
 
 The Bible verse data can be found in these files:
-kjv_james_chapter1.py
-niv_james_chapter1.py
+kjv_james_chapter1.py, 
+niv_james_chapter1.py, 
 rsv_james_chapter1.py
 
 The lookup functions are in this file:
